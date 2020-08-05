@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="profile_name">Default Picture</string>
+</resources>
